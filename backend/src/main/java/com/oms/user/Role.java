@@ -1,0 +1,1 @@
+package com.oms.user; public enum Role { ADMIN, EMPLOYEE }
